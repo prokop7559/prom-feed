@@ -26,27 +26,6 @@
     <category id="122490213">Корневая группа</category>
     </categories>
     <offers>
-  <offer id="1784144374157" available="false">
-    <price>0</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>138105402</categoryId>
-    <name>PLA CMYK Lithophane Bundle Bambu Lab 4x1кг (Cyan/Magenta/Yellow/White)</name>
-    <description><![CDATA[<p>Набір філаментів PLA для кольорових літофаній із підтримкою AMS — чотири котушки по 1 кг у кольорах CMYK для створення реалістичних 3D-зображень з підсвічуванням.</p><p>PLA CMYK Lithophane Bundle від Bambu Lab — це спеціально підібраний комплект філаментів для друку кольорових літофаній на 3D-принтері з системою автоматичної подачі матеріалу AMS. До набору входять чотири котушки по 1 кг: Cyan (#0086D6), Magenta (#EC008C), Yellow (#F4EE2A) та Jade White (#FFFFFF) — кольори, що відтворюють широкий спектр відтінків зображень методом CMYK.</p><p>Процес створення літофанії простий: завантажте зображення JPG на сервіс Lithophane Maker, згенеруйте STL-файл, налаштуйте проєкт у Bambu Studio, завантажте філаменти у відповідні слоти AMS — і принтер зробить усе решту. Результат — об'ємна 3D-панель, яка розкриває всі кольори при підсвічуванні.</p><p>Для досягнення найкращої якості рекомендується використовувати сопло діаметром 0,2 мм або 0,4 мм і висоту шару від 0,08 до 0,12 мм. Температура підігрівного столу 45–50°C мінімізує деформацію під час друку. Сумісність підтверджено з платформами Bambu Cool Plate SuperTack, Smooth PEI та Textured PEI.</p><p>Набір підходить для будь-яких принтерів Bambu Lab, оснащених AMS. Опціонально до комплекту можна додати LED-підсвічування Bambu CMYK Backlight Board, яке робить готову літофанію ще більш виразною та ефектною.</p><p>Цей філамент PLA для літофаній — чудове рішення для подарунків, декору та творчих 3D-проєктів. Якщо ви шукаєте набір для кольорового 3D-друку з фотореалістичним результатом, CMYK Lithophane Bundle від Bambu Lab стане саме тим, що потрібно.</p><p><strong>Характеристики:</strong></p><ul><li>Бренд: Bambu Lab</li><li>Матеріал: PLA</li><li>Кількість котушок: 4</li><li>Вага кожної котушки: 1 кг</li><li>Загальна вага філаменту: 4 кг</li><li>Кольори: Cyan (#0086D6), Magenta (#EC008C), Yellow (#F4EE2A), Jade White (#FFFFFF)</li><li>Тип котушки: Filament with spool</li><li>Рекомендований діаметр сопла: 0,2 мм або 0,4 мм</li><li>Рекомендована висота шару: 0,08–0,12 мм</li><li>Температура підігрівного столу: 45–50°C</li><li>Сумісні платформи: Bambu Cool Plate SuperTack, Smooth PEI Plate, Textured PEI Plate, Dual-Texture PEI Plate</li><li>Призначення: Друк кольорових літофаній (CMYK)</li><li>Сумісність: Принтери Bambu Lab з AMS</li></ul>]]></description>
-    <keywords>PLA філамент для літофаній, CMYK lithophane Bambu Lab, набір філаментів для 3D друку, кольорова літофанія PLA, філамент Bambu Lab AMS, 3D філамент CMYK, PLA для літофанії купити</keywords>
-    <param name="Бренд">Bambu Lab</param>
-    <param name="Матеріал">PLA</param>
-    <param name="Кількість котушок">4</param>
-    <param name="Вага кожної котушки">1 кг</param>
-    <param name="Загальна вага філаменту">4 кг</param>
-    <param name="Кольори">Cyan (#0086D6), Magenta (#EC008C), Yellow (#F4EE2A), Jade White (#FFFFFF)</param>
-    <param name="Тип котушки">Filament with spool</param>
-    <param name="Рекомендований діаметр сопла">0,2 мм або 0,4 мм</param>
-    <param name="Рекомендована висота шару">0,08–0,12 мм</param>
-    <param name="Температура підігрівного столу">45–50°C</param>
-    <param name="Сумісні платформи">Bambu Cool Plate SuperTack, Smooth PEI Plate, Textured PEI Plate, Dual-Texture PEI Plate</param>
-    <param name="Призначення">Друк кольорових літофаній (CMYK)</param>
-    <param name="Сумісність">Принтери Bambu Lab з AMS</param>
-  </offer>
   <offer id="1784144444158" available="false">
     <price>88.45</price>
     <currencyId>UAH</currencyId>
